@@ -550,7 +550,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(4) .slide__bg {
   left: -150%;
-  background-image: url(../img/slide4.jpg);
+  background-image: url(/TRG/img/slide4.jpg);
 }
 
 /*===========================
