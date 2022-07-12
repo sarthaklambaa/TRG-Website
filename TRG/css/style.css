@@ -539,7 +539,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url(../img/slide3.jpg);
+  background-image: url(../img/slide4.jpg); 
 }
 
 /* slide4 */
@@ -550,7 +550,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(4) .slide__bg {
   left: -150%;
-  background-image: url(/TRG/img/slide4.jpg);
+  background-image: url(../img/slide3.jpg);
 }
 
 /*===========================
