@@ -313,7 +313,7 @@ ul.social-list li a i {
 ============================ */
 
 .navbar-brand {
-	font-size: 25px;
+	font-size: 20px;
 	line-height: 30px;
 	margin-left: 0px;
 	color:#333;
@@ -517,7 +517,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1.png);
 }
 
 /* slide2 */
@@ -2354,7 +2354,7 @@ ul {font-size: 16px;}
 	.navbar-collapse.collapse.in {
 		display:block!important;
 		padding-bottom: 40px;
-	    max-height:200px!important; 
+	    max-height:440px!important; 
 		overflow-y:scroll!important; 
 		overflow-x:hidden!important;
 	}
